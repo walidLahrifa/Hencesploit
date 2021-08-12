@@ -1,0 +1,11 @@
+dnspython
+colored
+boto3
+prompt
+terminaltables
+prettytable
+flask_pymongo
+flask_jwt_extended
+flask_bcrypt
+flask_cors
+
